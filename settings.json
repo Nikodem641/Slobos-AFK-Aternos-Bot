@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "KrosniewiceSMP.aternos.me",
+    "port": 27775,
     "version": "",
     "try-creative": false
   },
